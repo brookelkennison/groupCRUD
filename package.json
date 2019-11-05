@@ -19,7 +19,7 @@
   "homepage": "https://github.com/majormase/groupCRUD-1#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.6.9",
+    "mongoose": "^5.7.5",
     "nodemon": "^1.19.1"
   }
 }
